@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b4f06f7-3937-41fa-a973-8abaa428cd46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JUnitMathFunctions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JUnitMathFunctions/MathFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnitTest/MathFTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CountToEleven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DivideMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HiFriend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JUnitMathFunctions/HiFriend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MethodReturnTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Multiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PositiveNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CountToElevenTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DivideMethodTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HiFriendTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnitTest/HiFriendTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MethodReturnTypesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MultiplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PositiveNumbersTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="29RE5NhxyOl7nYKj34F36P4rBhC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.MathFTest">
+    <configuration name="HiFriendTest.testHiFriend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HiFriendTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JUnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JUnitTest" />
+      <option name="MAIN_CLASS_NAME" value="JUnitTest.HiFriendTest" />
+      <option name="METHOD_NAME" value="testHiFriend" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathFTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HiFriendTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JUnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JUnitTest" />
+      <option name="MAIN_CLASS_NAME" value="JUnitTest.MathFTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathFTest.countTo11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HiFriendTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JUnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JUnitTest" />
+      <option name="MAIN_CLASS_NAME" value="JUnitTest.MathFTest" />
+      <option name="METHOD_NAME" value="countTo11" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathFTest.division" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HiFriendTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JUnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JUnitTest" />
+      <option name="MAIN_CLASS_NAME" value="JUnitTest.MathFTest" />
+      <option name="METHOD_NAME" value="division" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathFTest.methodReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HiFriendTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JUnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JUnitTest" />
+      <option name="MAIN_CLASS_NAME" value="JUnitTest.MathFTest" />
+      <option name="METHOD_NAME" value="methodReturn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MathFTest" />
+        <item itemvalue="JUnit.MathFTest.division" />
+        <item itemvalue="JUnit.MathFTest.countTo11" />
+        <item itemvalue="JUnit.MathFTest.methodReturn" />
+        <item itemvalue="JUnit.HiFriendTest.testHiFriend" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b4f06f7-3937-41fa-a973-8abaa428cd46" name="Changes" comment="" />
+      <created>1653067318397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653067318397</updated>
+      <workItem from="1653224399267" duration="11792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
